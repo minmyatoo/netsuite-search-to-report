@@ -24,9 +24,11 @@ This Suitelet script 📜 empowers you to generate and visualize a variety of re
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](get.png)
 
 *Figure 1: Master Reports Suitelet Interface*
+
+![Screenshot 1](post.png)
 
 
 ## 📄 License
