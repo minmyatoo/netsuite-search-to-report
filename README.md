@@ -24,8 +24,6 @@ This Suitelet script 📜 empowers you to generate and visualize a variety of re
 
 ## 📸 Screenshots
 
-![Screenshot 1](get.png)
-
 *Figure 1: Master Reports Suitelet Interface*
 
 ![Screenshot 1](post.png)
